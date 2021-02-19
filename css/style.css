@@ -65,9 +65,10 @@ body {
 }
 
 .aboutImage {
-  max-width: 100%;
-  width: 80%;
-  height: 400px;
+  max-width: 90%;
+  width: auto;
+  height: auto;
+  float: left;
 }
 
 .skillsSection,
